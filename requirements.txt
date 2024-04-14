@@ -1,0 +1,9 @@
+pandas
+numpy
+transformers
+scipy
+matplotlib
+newspaper3k
+beautifulsoup4
+lxml
+lxml_html_clean
