@@ -46,3 +46,8 @@ To use this notebook, follow these steps:
 
 - This notebook was created as part of a project to analyze sentiment in financial news.
 - Special thanks to the developers of the libraries and models used in this notebook.
+- Collaborators:
+  - Albin Johns
+  - Ashlyn S Pothen
+  - Durga A
+  - Mathew Joe
